@@ -1,0 +1,159 @@
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.exe
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.pdb
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Form1.resources
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Login.resources
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Properties.Resources.resources
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.csproj.GenerateResource.Cache
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.exe
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.pdb
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Forensic_DB.mdf
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Forensic_DB_log.ldf
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.AnalysisData.resources
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterAdd.resources
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterForm.resources
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.LoadForm.resources
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MenuForm.resources
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MatrixForm.resources
+D:\Projects\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Clustering.resources
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.exe
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.pdb
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Forensic_DB.mdf
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Forensic_DB_log.ldf
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.exe
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.pdb
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.AnalysisData.resources
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterAdd.resources
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterForm.resources
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Clustering.resources
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Form1.resources
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Login.resources
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.LoadForm.resources
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MatrixForm.resources
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MenuForm.resources
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Properties.Resources.resources
+E:\Projects Dotnet\IEEE 2013 Dotnet Projects\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.csproj.GenerateResource.Cache
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.exe
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.pdb
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\bin\Debug\Forensic_DB.mdf
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\bin\Debug\Forensic_DB_log.ldf
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.exe
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.pdb
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\obj\Debug\ResolveAssemblyReference.cache
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.AnalysisData.resources
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterAdd.resources
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterForm.resources
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Clustering.resources
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Form1.resources
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Login.resources
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.LoadForm.resources
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MatrixForm.resources
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MenuForm.resources
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Properties.Resources.resources
+E:\2013 - 2014 Dotnet  Students Projects\DocumentClustering\Document_Clustering_Code_2\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.csproj.GenerateResource.Cache
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.exe
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.pdb
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Forensic_DB.mdf
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Forensic_DB_log.ldf
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.exe
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.pdb
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.AnalysisData.resources
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterAdd.resources
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterForm.resources
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Clustering.resources
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Form1.resources
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Login.resources
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.LoadForm.resources
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MatrixForm.resources
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MenuForm.resources
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Properties.Resources.resources
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\SDB\Desktop\DocumentClustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.exe
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.pdb
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Forensic_DB.mdf
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Forensic_DB_log.ldf
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.exe
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.pdb
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\ResolveAssemblyReference.cache
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.AnalysisData.resources
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterAdd.resources
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterForm.resources
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Clustering.resources
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Form1.resources
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Login.resources
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.LoadForm.resources
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MatrixForm.resources
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MenuForm.resources
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Properties.Resources.resources
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\DocumentClustering(subiyha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.exe
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.pdb
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Forensic_DB.mdf
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Forensic_DB_log.ldf
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.exe
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.pdb
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\ResolveAssemblyReference.cache
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.AnalysisData.resources
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterAdd.resources
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterForm.resources
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Clustering.resources
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Form1.resources
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Login.resources
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.LoadForm.resources
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MatrixForm.resources
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MenuForm.resources
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Properties.Resources.resources
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\DocumentClustering(subitha)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\SDB\Desktop\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.exe
+C:\Users\SDB\Desktop\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.pdb
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.exe
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.pdb
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Forensic_DB.mdf
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Forensic_DB_log.ldf
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.exe
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.pdb
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\ResolveAssemblyReference.cache
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.AnalysisData.resources
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterAdd.resources
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterForm.resources
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Clustering.resources
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Form1.resources
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Login.resources
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.LoadForm.resources
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MatrixForm.resources
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MenuForm.resources
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Properties.Resources.resources
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Finals(2014)\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.exe
+D:\Finals(2014)\DocumentClustering(Pavithra and durga)\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.pdb
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.exe
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.pdb
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Forensic_DB.mdf
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Forensic_DB_log.ldf
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.exe
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.pdb
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\ResolveAssemblyReference.cache
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.AnalysisData.resources
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterAdd.resources
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.ClusterForm.resources
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Clustering.resources
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Form1.resources
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Login.resources
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.LoadForm.resources
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MatrixForm.resources
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.MenuForm.resources
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.Properties.Resources.resources
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\2014 projecs\JANA\sentance Clustering\Document_Clustering_Code\Document_Clustering_Code\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\2014 projecs\JANA\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.exe
+E:\2014 projecs\JANA\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.pdb
+H:\janaproject\Document_Clustering_Code\bin\Debug\Document_Clustering_Code.exe.config
+H:\janaproject\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.exe
+H:\janaproject\Document_Clustering_Code\obj\Debug\Document_Clustering_Code.pdb
+H:\janaproject\Document_Clustering_Code\obj\Debug\ResolveAssemblyReference.cache
